@@ -1,2 +1,2 @@
 # Cake
-Recipe about Vanilla Cake
+Small recipe about Vanilla Cake
